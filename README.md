@@ -5,4 +5,5 @@ The write up of the weekend can be found at [http://codethecity.org/2016/03/so-h
 
 The following were the projects teams:
 
-
+* [Team Histerical Time Machine](https://github.com/CodeTheCity/histerical) 
+* [Transcribing team](https://github.com/CodeTheCity/history_jam)
